@@ -1,0 +1,36 @@
+{
+  "name": "TestSurvey",
+  "date": "2023-10-15",
+  "filename": "TestSurvey-2023-10-15",
+  "format": "text",
+  "bounds": {
+    "minX": null,
+    "maxX": null,
+    "minY": null,
+    "maxY": null
+  },
+  "lines": [
+    "1200",
+    "1500",
+    "1800",
+    "2100",
+    "2400",
+    "2700",
+    "3000",
+    "3300",
+    "3600",
+    "3900",
+    "4200",
+    "4500",
+    "4800",
+    "5100",
+    "TDAVGW",
+    "LINE:1N",
+    "T1X",
+    "LINE:2N",
+    "LINE:3N",
+    "LINE:5N"
+  ],
+  "size": 141948,
+  "uploadTime": "2025-04-22T20:52:40.367Z"
+}
